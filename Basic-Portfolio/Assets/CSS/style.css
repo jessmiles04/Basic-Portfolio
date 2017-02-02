@@ -1,0 +1,164 @@
+body {
+  margin-left: 60px;
+  margin-right: 20px;
+  padding: 0;
+  font-family: "Georgia", Times New Roman, Times, serif;
+  font-size: 18px;
+  color: #333333;
+  line-height: 150%;
+  background-image: url("../images/background.png");
+}
+
+header {
+  background: #ffffff;
+  display:block;
+  width:100%;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  top:0px;
+  height:48px;
+  border:1px solid #dddddd;
+}
+
+
+h1 {
+  display:inline;
+  float:left;
+  margin: 0px;
+  padding: 10px 0;
+  font-size: 30px;
+  color: #eee;
+  text-align: center;
+  background: #4aaaa5;
+  width:30%;
+}
+
+h2 {
+  font-size: 24px;
+  text-align:center;
+  color: #4aaaa5;
+}
+h3 {
+  width:40%;
+  display:inline;
+  float:right;
+  text-align:right;
+  margin-right:10px;
+  color: #4aaaa5;
+}
+
+h4 {
+  font-size: 16px;
+  text-align:center;
+  color: #4aaaa5;
+}
+
+h5 {
+  font-size: 20px;
+  text-align:center;
+  color: #eeeeee;
+}
+
+a {
+  color: #d21034;
+}
+
+
+.container {
+  margin: 0 auto;
+  width: 2000px;
+
+}
+
+.clearfix {
+    overflow: auto;
+}
+
+.row {
+  height:48px;
+  text-align: center
+}
+
+.footer {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  height: 75px;
+  padding: 1rem;
+  background-color: #666666;
+  text-align: center;
+  border-style: solid;
+     border-top: thick double #4aaaa5;
+    }
+
+
+
+.image-wrapper {
+    position: relative;
+    color: #eee;
+    text-align: center;
+    background: #4aaaa5;
+    width:209px;
+    font-size: 18px;
+    float:left;
+    margin: 20px;
+}
+
+#main-bio{
+  margin-top:60px;
+  float: left;
+  width:650px;
+  margin-left: 270px;
+  background-color: #ffffff;
+  border:2px solid #dddddd;
+
+}
+
+
+#contact_form{
+float: center;
+}
+
+#submit_button{
+  position: bottom;
+}
+
+#bio-image {
+  margin: 20px 10px 20px 20px;
+  float: left;
+  border:1px solid #dddddd;
+}
+
+
+#contact-info {
+  width: 207px;
+  height: 152px;
+  float: left;
+  background-color: #ffffff;
+  margin-left: 50px;
+  margin-top: 60px;
+  text-align: center;
+  border:1px solid #dddddd;
+}
+
+#icon {
+  margin-right: 20px;
+  width: 40px;
+  height: 40px;
+}
+
+#contact{
+  background-color: #ffffff;
+}
+
+
+#porfolio{
+  border:1px solid #dddddd;
+  display:inline;
+  float:left;
+  margin: 0px;
+  padding: 10px 0;
+}
